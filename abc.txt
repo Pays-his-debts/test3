@@ -1,1 +1,3 @@
 aaaaaa
+
+git remote set-url --add origin git@github.com:Pays-his-debts/test3.git
