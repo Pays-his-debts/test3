@@ -1,58 +1,18 @@
 sheet:
   tower_user:
-  - username: '321013'
-    last_name: ずいずい
+  - username  : "321013"
+    last_name : ずいずい
     first_name: やああん
-    roles: Admin
-  - username: '321021'
-    last_name: ダイアン
+    roles     : Admin
+  - username  : "321021"
+    last_name : ダイアン
     first_name: 津田
-    roles: Execute
-  - username: '123456'
-    last_name: ダイアン
+    roles     : Execute
+  - username  : "123456"
+    last_name : ダイアン
     first_name: ユースケ
-    roles: Execute
-  - username: '111111'
-    last_name: マイケル
-    first_name: ムーア
-    roles: Execute
-  - username: '333333'
-    last_name: 織田
-    first_name: 信長
-    roles: Execute
-  - username: '333229'
-    last_name: マイケル
-    first_name: ジョーダン
-    roles: Execute
-  - username: '333230'
-    last_name: 桜木
-    first_name: 花道
-    roles: Execute
-  - username: '333231'
-    last_name: 桜木
-    first_name: 武道
-    roles: Execute
-  - username: '333232'
-    last_name: 桜木
-    first_name: 武道
-    roles: Execute
-  - username: '333233'
-    last_name: 桜木
-    first_name: 武a道
-    roles: Execute
-  - username: '333234'
-    last_name: 桜木
-    first_name: 武a道
-    roles: Execute
-  - username: '333235'
-    last_name: 桜木
-    first_name: 武a道
-    roles: Execute
-  - username: '333236'
-    last_name: 桜木
-    first_name: 武a道
-    roles: Execute
-  - username: '333237'
-    last_name: 桜木
-    first_name: 武a道
-    roles: Execute
+    roles     : Execute
+  - username  : "222222"
+    last_name : 金光
+    first_name: iDeCo
+    roles     : Execute
